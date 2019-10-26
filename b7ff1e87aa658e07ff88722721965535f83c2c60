@@ -12,15 +12,7 @@
 
 
 
-{"A":"1","B":"Football Live","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http:\/\/mobilcanlitvizle.com\/kanallogo\/play.png","G":"http://wowsportslive.com/the_stream/the_stream//api/get_category_posts/?api_key=cda11uT8cBLzm6a1YvsiUWOEgrFowk95K2DM3tHAPRCX4ypGjN&id=39&page=1&count=60","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"http://wowsportslive.com/the_stream/the_stream/the_stream//api/get_category_posts/?api_key=cda11uT8cBLzm6a1YvsiUWOEgrFowk95K2DM3tHAPRCX4ypGjN&id=39&page=1&count=60/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
 
-
-
-
- {"A":"2","B":"Cricket Live","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http:\/\/mobilcanlitvizle.com\/kanallogo\/play.png","G":"http://wowsportslive.com/the_stream/the_stream/api/get_category_posts/?api_key=cda11uT8cBLzm6a1YvsiUWOEgrFowk95K2DM3tHAPRCX4ypGjN&id=40&page=1&count=60","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"http://wowsportslive.com/the_stream/the_stream/api/get_category_posts/?api_key=cda11uT8cBLzm6a1YvsiUWOEgrFowk95K2DM3tHAPRCX4ypGjN&id=40&page=1&count=60/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
-
-
- {"A":"3","B":"Highlights","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http:\/\/mobilcanlitvizle.com\/kanallogo\/play.png","G":"http://wowsportslive.com/the_stream/the_stream/api/get_category_posts/?api_key=cda11uT8cBLzm6a1YvsiUWOEgrFowk95K2DM3tHAPRCX4ypGjN&id=41&page=1&count=56","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"http://wowsportslive.com/the_stream/the_stream/api/get_category_posts/?api_key=cda11uT8cBLzm6a1YvsiUWOEgrFowk95K2DM3tHAPRCX4ypGjN&id=41&page=1&count=56/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
  
  
  
@@ -93,21 +85,7 @@
 
 
 
-{"A":"1034","B":"beIN SPORTS News","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://embratoria.net/uploads/tv_image/sm/bein-sports-news.png","G":"https://embratoria.net/live-tv/bein-sports-news.html","H":"defaultplayer","I":"false","J":"staticpattern","K":"token=(.*?)['\"]","L":"https://shild2.akamaizid.com/bein-sports-news/index.m3u8?token=","M":"","R":"{\"Referer\":\" https://embratoria.net/\"}",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"25.01.2019 00:39:23",
-"P":0},
 
-
-
-
-
-
-
-{"A":"1034","B":"beIN SPORTS Global","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://embratoria.net/uploads/tv_image/sm/bein-sports-global.png","G":"https://embratoria.net/live-tv/bein-sports-global.html","H":"defaultplayer","I":"false","J":"staticpattern","K":"token=(.*?)['\"]","L":"https://shild2.akamaizid.com/bein-sports-global/index.m3u8?token=","M":"","R":"{\"Referer\":\" https://embratoria.net/\"}",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"25.01.2019 00:39:23",
-"P":0},
 
 
 
@@ -118,17 +96,18 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http://photocall.tv/eC5q/un?ch=beinsports1
+ "G": "http://hawtamm7.online/images/ZZ01.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"http://photocall.tv/eC5q/\"}",
+ "R":"{\"Referer\":\" http://qanat.tv/embed/?WlowMw/\"}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
+ 
  
 
  
@@ -139,7 +118,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "http://hawtamm7.online/images/ZZ03.m3u8
+ "G": "http://hawtamm7.online/images/ZZ02.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -164,17 +143,18 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
- "G": "https://www.movs4u.org
+"G": "http://hawtamm7.online/images/ZZ03.m3u8
 ",
- "H": "webplayer",
+ "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"https://www.movs4u.org\"}",
+ "R":"{\"Referer\":\" http://qanat.tv/embed/?WlowMw/\"}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
+ 
 
 
 
@@ -186,17 +166,18 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
- "G": "http://photocall.tv
+"G": "http://hawtamm7.online/images/ZZ04.m3u8
 ",
- "H": "webplayer",
+ "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
- "R":"",
+ "R":"{\"Referer\":\" http://qanat.tv/embed/?WlowMw/\"}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
+ 
  
 
 
@@ -206,7 +187,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
- "G": "http://swsw2.xyz/images/logo5.m3u8
+"G": "http://hawtamm7.online/images/ZZ05.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -214,9 +195,10 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\" http://yarigatv.basnews.com/05/\"}",
+ "R":"{\"Referer\":\" http://qanat.tv/embed/?WlowMw/\"}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
+ 
  
   
   
@@ -228,7 +210,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "G": "http://swsw2.xyz/images/logo6.m3u8
+ "G": "http://hawtamm7.online/images/ZZ06.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -236,7 +218,7 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\" http://yarigatv.basnews.com/06/\"}",
+ "R":"{\"Referer\":\" http://qanat.tv/embed/?WlowMw/\"}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
  
@@ -298,114 +280,6 @@
 
 
 
-{ "A": "302",
- "B": "Alfajer 1",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://imgs1.e-droid.net/srv/imgs/seccs/4751776_ico.png", 
- "G": "http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV8200/3357
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R": "",
- "N": "245sdee654erea", "O": "",
- "P": 0 },
- 
-
- 
- 
- { "A": "302",
- "B": "Alfajer 2",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://imgs1.e-droid.net/srv/imgs/seccs/4751777_ico.png", 
- "G": "http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV8200/3381
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R": "",
- "N": "245sdee654erea", "O": "",
- "P": 0 },
- 
-
- 
- 
- 
- 
- 
- 
-{ "A": "302",
- "B": "Alfajer 3",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://imgs1.e-droid.net/srv/imgs/seccs/4751872_ico.png", 
- "G": "http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV8200/3358
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R": "",
- "N": "245sdee654erea", "O": "",
- "P": 0 },
-
-
-
-
-
-{ "A": "302",
- "B": "Alfajer 4",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://imgs1.e-droid.net/srv/imgs/seccs/4751876_ico.png", 
- "G": "http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV8200/3359
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R": "",
- "N": "245sdee654erea", "O": "",
- "P": 0 },
- 
-
-
- { "A": "302",
- "B": "Alfajer 5",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://imgs1.e-droid.net/srv/imgs/seccs/4751881_ico.png", 
- "G": "http://iptv-janberyan.com:25461/BeryanIPTV-TV/BeryanTV8200/3360
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R": "",
- "N": "245sdee654erea", "O": "",
- "P": 0 },
- 
-  
-  
   
 
 
