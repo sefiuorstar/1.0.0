@@ -419,9 +419,7 @@
  
  , 
  
-   { "A": "1", "B": " Setanta Sport +
-
-", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2017-01/1484824411_sport-plyus.png", "G": "https://sportbar.biz/seteurasiaplus.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/seteurasiaplus.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+   { "A": "1", "B": " Setanta Sport 2", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2017-01/1484824411_sport-plyus.png", "G": "https://sportbar.biz/seteurasiaplus.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/seteurasiaplus.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
  
@@ -577,46 +575,43 @@
  
  
  
- , {"A":"853","B":"Sky football","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"http://194.88.104.169:8081/12s3d1see/skysportsfootball-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTkgNjowMjoyNSBQTSZoYXNoX3ZhbHVlPUhOQWpHWkNod3JLYVRTOE5EQnhBVkE9PSZ2YWxpZG1pbnV0ZXM9MjA= ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
+ , {"A":"853","B":"Sky football","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"https://sportbar.biz/ssf.html ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/ssf.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
  
  
  
- , {"A":"853","B":"Sky Premier League","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a90.png","G":"http://194.88.104.169:8081/12s3d1see/skysportspremierleague-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTkgNjowMjoyNSBQTSZoYXNoX3ZhbHVlPUhOQWpHWkNod3JLYVRTOE5EQnhBVkE9PSZ2YWxpZG1pbnV0ZXM9MjA= ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
- 
- 
- 
- 
- , {"A":"853","B":"Sky Action","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a93.png","G":"http://194.88.104.169:8081/12s3d1see/skysportsaction-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTkgNjowMjoyNSBQTSZoYXNoX3ZhbHVlPUhOQWpHWkNod3JLYVRTOE5EQnhBVkE9PSZ2YWxpZG1pbnV0ZXM9MjA ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
- 
- 
- , {"A":"853","B":"Sky sport Mix","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a123.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/860.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
- 
- 
- 
-  
- , {"A":"853","B":"Sky Sports Arena","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-sky-sports-arena-92.png","G":"http://194.88.104.169:8081/12s3d1see/skysportsfootball-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE5IDI6NTM6NTIgUE0maGFzaF92YWx1ZT1hUGhwRjZZeC85eGxVSkV0VzIyRkJ3PT0mdmFsaWRtaW51dGVzPTIw ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
- 
- 
- 
- 
-  
- , {"A":"853","B":"Sky Sports Main Event","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a663.png","G":"http://194.88.104.169:8081/12s3d1see/skysportsmainevent-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE5IDI6NTM6NTIgUE0maGFzaF92YWx1ZT1hUGhwRjZZeC85eGxVSkV0VzIyRkJ3PT0mdmFsaWRtaW51dGVzPTIw ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
- 
-  
- 
- 
- 
-  
- , {"A":"853","B":"Sky Sports F1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a118.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/80.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
- 
+ , {"A":"853","B":"Sky Premier League","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a90.png","G":"https://sportbar.biz/sspl.html ","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/sspl.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
  
  
  
  
  
   
+  
+ , {"A":"853","B":"Sky Sports Main Event","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a663.png","G":"https://sportbar.biz/maineventss.html ","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/maineventss.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
  
- , {"A":"853","B":"Sky sport GOLF","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a94.png","G":"http://194.88.104.169:8081/12s3d1see/skysportsgolf-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTkgNjowNjoyNiBQTSZoYXNoX3ZhbHVlPXBneHRTN21HK0dRUDRRNkpiTUJ0eUE9PSZ2YWxpZG1pbnV0ZXM9MjA= ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
+  
+ 
+ 
+ 
+ 
+ , {"A":"853","B":"Sky Action","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a93.png","G":"http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0}
+ 
+ 
+ , {"A":"853","B":"Sky sport Mix","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a123.png","G":"http://95.170.215.120:80/hls/m3u8/Sky-Sports-News.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0}
+ 
+ 
+ 
+  
+ , {"A":"853","B":"Sky Sports Arena","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-sky-sports-arena-92.png","G":"http://95.170.215.120:80/hls/Sky-Sports-Arena-MR.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0}
+ 
+ 
+ 
+
+ 
+ 
+ 
+  
+ , {"A":"853","B":"Sky Sports F1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a118.png","G":"http://95.170.215.120:80/hls/Sky-Sports-F1-HD-MR.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -625,7 +620,16 @@
  
   
  
- , {"A":"853","B":"Sky sport Cricket","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a664.png","G":"http://194.88.104.169:8081/12s3d1see/skysportscricket-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTkgNjowNjoyNiBQTSZoYXNoX3ZhbHVlPXBneHRTN21HK0dRUDRRNkpiTUJ0eUE9PSZ2YWxpZG1pbnV0ZXM9MjA= ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
+ , {"A":"853","B":"Sky sport GOLF","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a94.png","G":"http://95.170.215.120:80/hls/Sky-Sports-Golf-MR.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0}
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ , {"A":"853","B":"Sky sport Cricket","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a664.png","G":"http://194.88.104.169:8081/12s3d1see/skysportscricket-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTkgNjowNjoyNiBQTSZoYXNoX3ZhbHVlPXBneHRTN21HK0dRUDRRNkpiTUJ0eUE9PSZ2YWxpZG1pbnV0ZXM9MjA= ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0}
  
  
  
