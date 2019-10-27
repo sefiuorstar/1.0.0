@@ -563,14 +563,14 @@
  , 
  
  
- {"A":"853","B":"Bein 1 (FR) HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a400.png","G":"http://194.88.104.169:8081/12s3d1see/bein1fr-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE5IDI6MjM6MjggUE0maGFzaF92YWx1ZT03dVM3T0RoYloyTkd2aEV2T1BqWFRnPT0mdmFsaWRtaW51dGVzPTIw ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}, 
+ {"A":"853","B":"Bein 1 (FR) HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a400.png","G":"http://www.elahmad.com/tv/mobiletv/bein_tv.php?id=bein1fr ","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.elahmad.com/tv/mobiletv/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
  
  
- {"A":"853","B":"Bein 2 (FR) HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a401.png","G":"http://194.88.104.169:8081/12s3d1see/bein2fr-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE5IDI6MjM6MjggUE0maGFzaF92YWx1ZT03dVM3T0RoYloyTkd2aEV2T1BqWFRnPT0mdmFsaWRtaW51dGVzPTIw ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}, 
+ {"A":"853","B":"Bein 2 (FR) HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a401.png","G":"http://194.88.104.169:8081/12s3d1see/bein2fr-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE5IDI6MjM6MjggUE0maGFzaF92YWx1ZT03dVM3T0RoYloyTkd2aEV2T1BqWFRnPT0mdmFsaWRtaW51dGVzPTIw ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}, 
  
  
- {"A":"853","B":"Bein 3 (FR) HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a402.png","G":"http://194.88.104.169:8081/12s3d1see/bein3fr-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE5IDI6MjM6MjggUE0maGFzaF92YWx1ZT03dVM3T0RoYloyTkd2aEV2T1BqWFRnPT0mdmFsaWRtaW51dGVzPTIw ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
+ {"A":"853","B":"Bein 3 (FR) HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a402.png","G":"http://194.88.104.169:8081/12s3d1see/bein3fr-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE5IDI6MjM6MjggUE0maGFzaF92YWx1ZT03dVM3T0RoYloyTkd2aEV2T1BqWFRnPT0mdmFsaWRtaW51dGVzPTIw ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -636,7 +636,7 @@
  
   
  
- , {"A":"853","B":"Fox Sports 1 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a241.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/5.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
+ , {"A":"853","B":"Fox Sports 1 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a241.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/5.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -645,7 +645,7 @@
  
   
  
- , {"A":"853","B":"Fox Sports 2 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a242.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/4.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
+ , {"A":"853","B":"Fox Sports 2 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a242.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/4.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -653,7 +653,7 @@
  
   
  
- , {"A":"853","B":"Fox Sports 3 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a243.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/3.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
+ , {"A":"853","B":"Fox Sports 3 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a243.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/3.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -661,7 +661,7 @@
  
   
  
- , {"A":"853","B":"Fox Sports 4 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a244.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/2.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
+ , {"A":"853","B":"Fox Sports 4 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a244.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/2.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -670,7 +670,7 @@
  
   
  
- , {"A":"853","B":"Fox Sports 5 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a245.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/1.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"lolllololollol","O":"25.01.2019 00:39:23","P":0}
+ , {"A":"853","B":"Fox Sports 5 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a245.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/1.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}
  
  
  
