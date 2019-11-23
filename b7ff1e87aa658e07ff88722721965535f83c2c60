@@ -759,7 +759,7 @@
  
   
  
- , {"A":"853","B":"Sky sport Cricket","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a664.png","G":"http://194.88.104.169:8081/12s3d1see/skysportscricket-576/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTkgNjowNjoyNiBQTSZoYXNoX3ZhbHVlPXBneHRTN21HK0dRUDRRNkpiTUJ0eUE9PSZ2YWxpZG1pbnV0ZXM9MjA= ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0}
+ , {"A":"853","B":"Sky sport Cricket","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a664.png","G":"http://95.170.215.120:80/hls/m3u8/Sky-Spor-cricket.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -995,20 +995,9 @@
 
  , 
   
-  { "A": "1", "B": " ESPN 1 (US) ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://1079020916.rsc.cdn77.org/images/teams/Logo-ESPN.png", "G": "http://ustvgo.tv/espn-live",  "H":"defaultplayer","I":"false", "J": "pattern",
-                "K": "file: '(.*?)'",
-                "L": "",
-                "M": "","R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
-
- 
-  , 
   
-  { "A": "1", "B": " ESPN 2 (US) ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://1079020916.rsc.cdn77.org/images/teams/Logo-ESPN.png", "G": "http://ustvgo.tv/espn2",  "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
- 
- 
-  , 
   
   { "A": "1", "B": " Tennis Channel", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://ustvgo.tv/wp-content/uploads/2019/01/TennisChannel.whiteBg.png", "G": "https://sportbar.biz/itsupertennis.html",  "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"https://sportbar.biz/itsupertennis.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
@@ -1033,10 +1022,47 @@
 
  , 
   
+  
+  {"A":"853","B":"CMore Sport","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a480.png","G":"http://95.170.215.120/hls/m3u8/CMore-Sport.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0}
+ 
+ 
+ 
+ 
  
  
   
-  { "A": "1", "B": "Eurosport 1 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1419.png", "G": "https://sportbar.biz/eurosport1rus.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/eurosport1rus.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+ 
+ ,
+  
+ 
+ 
+  
+{"A":"853","B":"CMore Football","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a482.png","G":"http://95.170.215.120/hls/m3u8/CMore-Football.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+  
+  
+  
+  {"A":"853","B":"CMore Live1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a484.png","G":"http://95.170.215.120/hls/m3u8/CMore-Live1-HD.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+  
+  
+  
+  
+  {"A":"853","B":"CMore Live2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a485.png","G":"http://95.170.215.120/hls/m3u8/CMore-Live2-HD.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+  
+  
+
+{"A":"853","B":"CMore Live3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a486.png","G":"http://95.170.215.120/hls/m3u8/CMore-Live3-HD.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+
+
+
+{"A":"853","B":"CMore Live4 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a487.png","G":"http://95.170.215.120/hls/m3u8/CMore-Live4-HD.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+
+
+
+{"A":"853","B":"CMore Live5 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a488.png","G":"http://95.170.215.120/hls/m3u8/CMore-Live5-HD.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+
+
+  
+    { "A": "1", "B": "Eurosport 1 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1419.png", "G": "https://sportbar.biz/eurosport1rus.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/eurosport1rus.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
 
