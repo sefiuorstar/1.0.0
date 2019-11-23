@@ -1009,19 +1009,31 @@
  
   , 
   
-  { "A": "1", "B": " Tennis Channel", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://ustvgo.tv/wp-content/uploads/2019/01/TennisChannel.whiteBg.png", "G": "http://ustvgo.tv/tennis-channel-live-free",  "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": " Tennis Channel", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://ustvgo.tv/wp-content/uploads/2019/01/TennisChannel.whiteBg.png", "G": "https://sportbar.biz/itsupertennis.html",  "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"https://sportbar.biz/itsupertennis.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
 
  , 
   
-  { "A": "1", "B": "Belarus 5 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1020.png", "G": "https://sportbar.biz/bel555.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportsbay.org/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": "Belarus 5 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1020.png", "G": "https://sportbar.biz/bel555.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
   
  
  
 
  , 
+ 
+ 
+   { "A": "1", "B": "QAZ Sport ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/tv-station-qaz-sport-1441.png", "G": "https://sportbar.biz/qazsportkz.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/qazsportkz.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+ 
+  
+ 
+ 
+
+ , 
+  
+ 
+ 
   
   { "A": "1", "B": "Eurosport 1 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1419.png", "G": "https://sportbar.biz/eurosport1rus.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/eurosport1rus.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
