@@ -1054,11 +1054,19 @@
 
 
 
-{"A":"853","B":"CMore Live4 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a487.png","G":"http://95.170.215.120/hls/m3u8/CMore-Live4-HD.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+{"A":"853","B":"CMore Live4 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a496.png","G":"http://95.170.215.120/hls/m3u8/CMore-Live4-HD.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
 
 
 
-{"A":"853","B":"CMore Live5 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a488.png","G":"http://95.170.215.120/hls/m3u8/CMore-Live5-HD.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+{"A":"853","B":"ZIGGO Voetbal","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a286.png","G":"http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+
+
+
+{"A":"853","B":"ZIGGO Select","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-ziggo-select-285.png","G":"http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+
+
+
+
 
 
   
