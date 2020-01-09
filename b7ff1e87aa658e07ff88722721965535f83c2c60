@@ -1019,11 +1019,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png", 
- "G": "https://kooralive247.com/cha/embed.php?stream=RMCSport1
+ "G": "https://shingaliptv.ru.com/FR/SFR/Sport1/index.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
@@ -1040,11 +1040,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1428.png", 
- "G": "https://kooralive247.com/cha/embed.php?stream=RMCSport2
+ "G": "http://shingaliptv.ru.com/FR/SFR/Sport/index.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
@@ -1061,11 +1061,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1429.png", 
- "G": "https://kooralive247.com/cha/embed.php?stream=RMCSport3
+ "G": "https://shingaliptv.ru.com/FRS/Sport3/FR/index.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
