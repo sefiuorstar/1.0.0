@@ -1012,25 +1012,24 @@
 
 
 
-
- 
 { "A": "8",
  "B": "RMC SPORT HD 1",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png", 
- "G": "https://shingaliptv.ru.com/FR/SFR/Sport1/index.m3u8
+ "G": "http://kooralive247.com/cha/embed.php?stream=RMCSport1
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
- "M": "", 
- "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
- "P": 0 },
+ "M": "",
+"R": "{\"Referer\":\"http://kooralive247.com/tv/49/\"}",
+"N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O": "24.04.2017 20:03:40",
+"P": 0 },
  
  
  
@@ -1041,17 +1040,19 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1428.png", 
- "G": "http://shingaliptv.ru.com/FR/SFR/Sport/index.m3u8
+ "G": "http://kooralive247.com/cha/embed.php?stream=RMCSport2
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
- "M": "", 
- "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
- "P": 0 },
+ "M": "",
+"R": "{\"Referer\":\"http://kooralive247.com/tv/50/\"}",
+"N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O": "24.04.2017 20:03:40",
+"P": 0 },
+ 
  
  
  
@@ -1062,17 +1063,19 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1429.png", 
- "G": "https://shingaliptv.ru.com/FRS/Sport3/FR/index.m3u8
+ "G": "http://kooralive247.com/cha/embed.php?stream=RMCSport3
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
- "M": "", 
- "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
- "P": 0 },
+ "M": "",
+"R": "{\"Referer\":\"http://kooralive247.com/tv/51/\"}",
+"N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O": "24.04.2017 20:03:40",
+"P": 0 },
+ 
  
  
  
@@ -1093,10 +1096,13 @@
  "J": "graphm3u8", 
  "K": "", 
  "L": "",
- "M": "", 
- "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
- "P": 0 },
+ "M": "",
+"R": "{\"Referer\":\"http://kooralive247.com/tv/52/\"}",
+"N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O": "24.04.2017 20:03:40",
+"P": 0 },
+ 
+ 
  
  
  
