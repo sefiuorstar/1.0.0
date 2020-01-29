@@ -16,7 +16,8 @@
  
 {"A":"853","B":"Live Soccer","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://image.winudf.com/v2/image1/Y29tLmxpdmVzb2NjZXJ0dl9pY29uXzE1NjY5OTYxODlfMDAy/icon.png?w=100&fakeurl=1","G":"https://m.livesoccertv.com/","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"https://m.livesoccertv.com/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
- 
+
+
 
 
 
@@ -1852,7 +1853,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1445.png", 
- "G": "http://www.seirsanduk.com/hd-max-sport-1-hd-online
+ "G": "http://seirsanduk.us/hd-max-sport-1-hd-online
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -1875,7 +1876,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1435.png", 
- "G": "http://www.seirsanduk.com/hd-max-sport-2-hd-online
+ "G": "http://seirsanduk.us/hd-max-sport-2-hd-online
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -1896,7 +1897,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1608.png", 
- "G": "http://www.seirsanduk.com/hd-max-sport-3-hd-online
+ "G": "http://seirsanduk.us/hd-max-sport-3-hd-online
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -1918,7 +1919,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1834.png", 
- "G": "http://www.seirsanduk.com/hd-max-sport-4-hd-online
+ "G": "http://seirsanduk.us/hd-max-sport-4-hd-online
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -1941,7 +1942,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1059.png", 
- "G": "http://www.seirsanduk.com/hd-diema-sport-hd-online
+ "G": "http://seirsanduk.us/hd-diema-sport-hd-online
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -1964,7 +1965,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1060.png", 
- "G": "http://www.seirsanduk.com/hd-diema-sport-2-hd-online
+ "G": "http://seirsanduk.us/hd-diema-sport-2-hd-online
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -1985,7 +1986,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1058.png", 
- "G": "http://www.seirsanduk.com/hd-nova-sport-hd-online
+ "G": "http://www.seirsanduk.us/hd-nova-sport-hd-online
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -2007,7 +2008,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1672.png", 
- "G": "http://www.seirsanduk.com/hd-ring-bg-hd-online
+ "G": "http://www.seirsanduk.us/hd-ring-bg-hd-online
 ",
   "H": "defaultplayer",
  "I": "false", 
