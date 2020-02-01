@@ -314,6 +314,46 @@
 
 
 
+{"A":"231","B":"A SPOR","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/a-spor.png","G":"https:\/\/securevideotoken.tmgrup.com.tr\/webtv\/secure?url=https:\/\/trkvz-live.ercdn.net\/asporhd\/asporhd.m3u8","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https:\/\/www.aspor.com.tr\/webtv\/canli-yayin\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:03:14","P":0},
+
+
+
+
+
+
+
+{"A":"329","B":"SPORTS TV","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/sports-tv.png","G":"https:\/\/mn-nl.mncdn.com\/blutv_sportstv\/smil:sportstv_sd.smil\/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:03:56","P":0},
+
+
+
+
+
+
+
+
+{"A":"287","B":"TRT SPOR","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/trt-spor.png","G":"http:\/\/web.canlitvlive.io\/izle\/trt-3-spor.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:02:56","P":0},
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  {"A":"11","B":"Digi Sport 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a880.png","G":"https://08sportbar.com/ds1ro.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://08sportbar.com/ds1ro.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
 
