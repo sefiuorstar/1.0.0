@@ -744,6 +744,7 @@
 
 
 
+
  
  { "A": "8",
  "B": "Al Fajer 1",
@@ -751,7 +752,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/4311455_ico.png?v=1", 
- "G": "http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8  
+ "G": "http://138.201.46.61:8080/live/11/ALKING_PLUS_APP/21.m3u8  
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -760,7 +761,7 @@
  "L": "",
  "M": "", 
  "R":"",
- "N": "Lva.vlc.player", "O": "",
+ "N": "king", "O": "",
  "P": 0 },
  
  
@@ -803,7 +804,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047872_ico.png?v=1", 
- "G": "http://beryantv.com:25461/live/68917067687674/68917067687674/833.m3u8  
+ "G": "http://138.201.46.61:8080/live/11/ALKING_PLUS_APP/23.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -812,7 +813,7 @@
  "L": "",
  "M": "", 
  "R":"",
- "N": "beryantv00250", "O": "",
+ "N": "king", "O": "",
  "P": 0 },
  
  
@@ -829,7 +830,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047874_ico.png?v=1", 
- "G": "http://beryantv.com:25461/live/68917067687674/68917067687674/834.m3u8  
+ "G": "http://138.201.46.61:8080/live/11/ALKING_PLUS_APP/24.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -838,7 +839,7 @@
  "L": "",
  "M": "", 
  "R":"",
- "N": "beryantv00250", "O": "",
+ "N": "king", "O": "",
  "P": 0 },
  
  
@@ -855,7 +856,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047879_ico.png?v=1", 
- "G": "http://beryantv.com:25461/live/68917067687674/68917067687674/835.m3u8  
+ "G": "http://138.201.46.61:8080/live/11/ALKING_PLUS_APP/25.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -864,12 +865,10 @@
  "L": "",
  "M": "", 
  "R":"",
- "N": "beryantv00250", "O": "",
+ "N": "king", "O": "",
  "P": 0 },
  
  
-
-
 
 
 
