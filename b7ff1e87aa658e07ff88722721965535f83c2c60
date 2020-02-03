@@ -1799,8 +1799,8 @@
   
 
 
-,{"A":"17","B":"FOX Sports 2 (US)","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a61.png","G":"https://ustvgo.tv/player.php?stream=FS2
-","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://ustvgo.tv/player.php?stream=FS2/
+,{"A":"17","B":"FOX Sports 2 (US)","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a61.png","G":"http://live.fadev.club/live/FS2/playlist.m3u8
+","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://imkmedia.com/watch/fox-sports-2/
 \"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
   
 
@@ -2065,35 +2065,35 @@
  
  
  
- {"A":"17","B":"nbcsn-tv HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-nbcs-network-70.png","G":"http://sv4.dailymotion.com.1cdn.host/live/nbcsn/playlist.m3u8
-","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://123tvnow.com/watch/nbc-sport-network-2/
+ {"A":"17","B":"nbcsn-tv HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-nbcs-network-70.png","G":"http://live.fadev.club/live/NBCSN/playlist.m3u8
+","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://imkmedia.com/watch/nbc-sport-network-nbcsn/
 \"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
  
  
  
   
- {"A":"17","B":"Nhl-tv HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-nhl-network-49.png","G":"http://sv4.dailymotion.com.1cdn.host/live/nhltv/playlist.m3u8
-","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://123tvnow.com/watch/nhl-network/
-\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
- 
- 
- 
- 
- 
- 
-  
- 
-  
- {"A":"17","B":"WWE Network HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://cdn3.whatculture.com/images/2019/04/e9aca07490fa72b2-600x338.jpg","G":"http://sv2.dailymotion.com.1cdn.host/live/wwe/playlist.m3u8
-","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://123tvnow.com/watch/wwe-network/
+ {"A":"17","B":"Nhl-tv HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-nhl-network-49.png","G":http://live.fadev.club/live/NHL/playlist.m3u8
+","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://imkmedia.com/watch/nhl-network/
 \"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
  
  
  
  
  
- {"A":"17","B":"nba-tv HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a75.png","G":"http://sv3.dailymotion.com.1cdn.host/live/nbatv/playlist.m3u8
-","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://123tvnow.com/watch/nba-tv/
+ 
+  
+ 
+  
+ {"A":"17","B":"WWE Network HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://cdn3.whatculture.com/images/2019/04/e9aca07490fa72b2-600x338.jpg","G":"http://live.fadev.club/live/WWE/playlist.m3u8
+","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://imkmedia.com/watch/wwe-network/
+\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+ 
+ 
+ 
+ 
+ 
+ {"A":"17","B":"nba-tv HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a75.png","G":"http://live.fadev.club/live/NBATV/playlist.m3u8
+","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://imkmedia.com/watch/nba-tv/
 \"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
   
  
@@ -2106,14 +2106,14 @@
                 "B": "MLB Network",
                 "C": "1", "D":"SPORTS TV", "E": "SPORTS TV",
                 "F": "https://sport-tv-guide.live/images/tv-station-mlb-network-25.png",
-                "G": "https://ustvgo.tv/player.php?stream=MLB",
+                "G": "http://live.fadev.club/live/MLB/playlist.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "pattern",
-                "K": "file: '(.*?)'",
+                "J": "direct",
+                "K": "'",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=MLB/\"}",
+                "R": "{\"Referer\":\"http://imkmedia.com/watch/mlb-network/\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
@@ -2138,14 +2138,14 @@
                 "B": "NFL Network",
                 "C": "1", "D":"SPORTS TV", "E": "SPORTS TV",
                 "F": "https://sport-tv-guide.live/images/leagues/league40.png",
-                "G": "https://ustvgo.tv/player.php?stream=NFL",
+                "G": "http://live.fadev.club/live/NFL/playlist.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "pattern",
-                "K": "file: '(.*?)'",
+                "J": "direct",
+                "K": "",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=ESPN2/\"}",
+                "R": "{\"Referer\":\"http://imkmedia.com/watch/nfl-network/\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
@@ -2160,14 +2160,14 @@
                 "B": "Golf Channel",
                 "C": "1", "D":"SPORTS TV", "E": "SPORTS TV",
                 "F": "https://sport-tv-guide.live/images/stations/a807.png",
-                "G": "https://ustvgo.tv/player.php?stream=GOLF",
+                "G": "http://live.fadev.club/live/Golf/playlist.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "pattern",
-                "K": "file: '(.*?)'",
+                "J": "direct",
+                "K": "",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=ESPN2/\"}",
+                "R": "{\"Referer\":\"http://imkmedia.com/watch/golf-channel/\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
@@ -2184,14 +2184,14 @@
                 "B": "TBS",
                 "C": "1", "D":"SPORTS TV", "E": "SPORTS TV",
                 "F": "https://www.killthecablebill.com/images/cancelcable/watch-tbs-without-cable.png",
-                "G": "https://ustvgo.tv/player.php?stream=TBS",
+                "G": "http://live.fadev.club/live/TBS/playlist.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "pattern",
-                "K": "file: '(.*?)'",
+                "J": "direct",
+                "K": "",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=ESPN2/\"}",
+                "R": "{\"Referer\":\"http://imkmedia.com/watch/tbs/\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
