@@ -1640,25 +1640,25 @@
  
   
  
- , {"A":"853","B":"AD SPORTS 1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a815.png","G":"http://adtv.ercdn.net/adsport1/adsport1.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
+ , {"A":"853","B":"AD SPORTS 1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a815.png","G":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
  
  
  
  
   
  
- , {"A":"853","B":"AD SPORTS 2","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a667.png","G":"http://adtv.ercdn.net/adsport2/adsport2.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+ , {"A":"853","B":"AD SPORTS 2","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a667.png","G":"https://admdn2.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
  
  
  
  
  
  
- {"A":"853","B":"AD SPORTS 3","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a429.png","G":"https://tvae.ercdn.net/adsport3/adsport3.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+ {"A":"853","B":"AD SPORTS 3","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a429.png","G":"https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
  
  
  
- {"A":"853","B":"AD SPORTS 4","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a430.png","G":"https://tvae.ercdn.net/adsport4/adsport4.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+ {"A":"853","B":"AD SPORTS 4","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a430.png","G":"https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
  
  
  
