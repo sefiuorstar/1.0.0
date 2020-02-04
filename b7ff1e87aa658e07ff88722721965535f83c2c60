@@ -2052,8 +2052,190 @@
  
  
  
+{"A":"17","B":"nbcsn-tv HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-nbcs-network-70.png","G":"http://docs-2.gogleusercontent.host/live/nbcsn/playlist.m3u8
+","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://123tvnow.com/watch/nbc-sport-network-1/
+\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+ 
+ 
+ 
+  
+ {"A":"17","B":"Nhl-tv HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-nhl-network-49.png","G":"http://docs-1.gogleusercontent.host/live/nhltv/playlist.m3u8
+","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://123tvnow.com/watch/nhl-network/
+\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ {"A":"17","B":"WWE Network HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://cdn3.whatculture.com/images/2019/04/e9aca07490fa72b2-600x338.jpg","G":"http://docs-1.gogleusercontent.host/live/wwe/playlist.m3u8
+","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://123tvnow.com/watch/wwe-network/
+\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+ 
+ 
+ 
+ 
+ 
+ {"A":"17","B":"nba-tv HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a75.png","G":"http://docs-5.gogleusercontent.host/live/nbatv/playlist.m3u8
+","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://123tvnow.com/watch/nba-tv/
+\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
+  
+ 
+
+
+
+
+,
+
+{ "A": "1", "B": "MLB Network", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/tv-station-mlb-network-25.png", "G": "http://live.fadev.club/live/MLB/chunks.m3u8", "H": "defaultplayer", "I": "false", "J": "direct", "K": "", "L": "", "M": "", "R": "{\"Referer\":\"http://imkmedia.com/watch/mlb-network/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+
+
 
  
+
+
+
+
+,
+
+
+
+
+{
+                "A": "3501",
+                "B": "NFL Network",
+                "C": "1", "D":"SPORTS TV", "E": "SPORTS TV",
+                "F": "https://sport-tv-guide.live/images/leagues/league40.png",
+                "G": "http://live.fadev.club/live/NFL/chunks.m3u8",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "direct",
+                "K": "",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"http://imkmedia.com/watch/nfl-network/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+			
+			
+			
+{
+                "A": "3501",
+                "B": "Golf Channel",
+                "C": "1", "D":"SPORTS TV", "E": "SPORTS TV",
+                "F": "https://sport-tv-guide.live/images/stations/a807.png",
+                "G": "http://live.fadev.club/live/Golf/chunks.m3u8",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "direct",
+                "K": "",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"http://imkmedia.com/watch/golf-channel/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+			
+			
+					
+			
+			
+{
+                "A": "3501",
+                "B": "TBS",
+                "C": "1", "D":"SPORTS TV", "E": "SPORTS TV",
+                "F": "https://www.killthecablebill.com/images/cancelcable/watch-tbs-without-cable.png",
+                "G": "http://live.fadev.club/live/TBS/chunks.m3u8",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "direct",
+                "K": "",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"http://imkmedia.com/watch/tbs/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+ 
+ 
+ 			
+{
+                "A": "3501",
+                "B": "SportsNet New York",
+                "C": "1", "D":"SPORTS TV", "E": "SPORTS TV",
+                "F": "http://imkmedia.com/wp-content/uploads/2020/01/aa.png",
+                "G": "http://live.fadev.club/live/SNY/chunks.m3u8",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "direct",
+                "K": "",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"http://imkmedia.com/watch/sny-sportsnet-new-york/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+			
+			
+			{
+                "A": "3501",
+                "B": "UFC Fight Pass",
+                "C": "1", "D":"SPORTS TV", "E": "SPORTS TV",
+                "F": "http://imkmedia.com/wp-content/uploads/2020/01/ufc-300x160.png",
+                "G": "http://live.fadev.club/live/UFC/chunks.m3u8",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "direct",
+                "K": "",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"http://imkmedia.com/watch/ufc-fight-pass/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+			
+			
+ 
+			{
+                "A": "3501",
+                "B": "AHC",
+                "C": "1", "D":"SPORTS TV", "E": "SPORTS TV",
+                "F": "http://imkmedia.com/wp-content/uploads/2020/01/ufc-300x160.png",
+                "G": "http://live.fadev.club/live/AHC/chunks.m3u8",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "direct",
+                "K": "",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"http://imkmedia.com/watch/ahc-american-heroes-channel/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+			
+			
+			
  
  
  
@@ -3377,14 +3559,14 @@
                 "B": "E!",
                 "C": "1143", "D":"USA TV", "E": "USA TV",
                 "F": "https://ustvgo.tv/wp-content/uploads/2019/08/E.png",
-                "G": "https://ustvgo.tv/player.php?stream=E",
+                "G": "http://live.fadev.club/live/E!/chunks.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "pattern",
-                "K": "file: '(.*?)'",
+                "J": "direct",
+                "K": "",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=E/\"}",
+                "R": "{\"Referer\":\"http://imkmedia.com/watch/e-network/\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
@@ -3403,19 +3585,20 @@
                 "B": "Science",
                 "C": "1143", "D":"USA TV", "E": "USA TV",
                 "F": "https://ustvgo.tv/wp-content/uploads/2019/08/Science.jpg",
-                "G": "https://ustvgo.tv/player.php?stream=Science",
+                "G": "http://fadev.club/live/Science.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "pattern",
-                "K": "file: '(.*?)'",
+                "J": "direct",
+                "K": "",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=Science/\"}",
+                "R": "{\"Referer\":\"http://imkmedia.com/watch/science-channel/\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
             }, 
+
 
 
 
@@ -3437,12 +3620,14 @@
                 "K": "file: '(.*?)'",
                 "L": "",
                 "M": "",
-                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=GSN/\"}",
+                "R": "{\"Referer\":\"https://ustvgo.tv/gsn/\"}",
                 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
             }, 
+
+
 
 
 
