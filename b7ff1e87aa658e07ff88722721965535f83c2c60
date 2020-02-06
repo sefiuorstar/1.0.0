@@ -2459,7 +2459,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1855.png", 
- "G": "http://89.163.251.146:25461/live/GT/Shqip/445.m3u8
+ "G": "http://89.163.251.146:25461/live/GTT/Group/445.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -2483,7 +2483,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1856.png", 
- "G": "http://89.163.251.146:25461/live/GT/Shqip/444.m3u8
+ "G": "http://89.163.251.146:25461/live/GTT/Group/444.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -2503,7 +2503,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1857.png", 
- "G": "http://89.163.251.146:25461/live/GT/Shqip/443.m3u8",
+ "G": "http://89.163.251.146:25461/live/GTT/Group/443.m3u8",
   "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -2522,7 +2522,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1858.png", 
- "G": "http://89.163.251.146:25461/live/GT/Shqip/442.m3u8",
+ "G": "http://89.163.251.146:25461/live/GTT/Group/442.m3u8",
   "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -2546,7 +2546,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a686.png", 
- "G": "http://89.163.251.146:25461/live/GT/Shqip/433.m3u8
+ "G": "http://89.163.251.146:25461/live/GTT/Group/433.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -2569,7 +2569,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a687.png", 
- "G": "http://89.163.251.146:25461/live/GT/Shqip/434.m3u8
+ "G": "http://89.163.251.146:25461/live/GTT/Group/434.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
