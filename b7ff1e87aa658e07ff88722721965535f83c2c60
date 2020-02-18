@@ -2709,7 +2709,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://yt3.ggpht.com/a-/AAuE7mCj-qGdiq2__8osO1BL8EtzGNEXMXHdqTYTuA=s240-mo-c-c0xffffffff-rj-k-no", 
- "G": "http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
+ "G": "https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -2731,7 +2731,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://tv.bdixsports.com/uploads/tv_image/sm/sony-ten-2-live.png", 
- "G": "http://fr-c.movply.stream/hls/sony-ten-2-hd.m3u8
+ "G": "https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -2773,7 +2773,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://tv.bdixsports.com/uploads/tv_image/sm/sony-six-live.png", 
- "G": "http://fr-c.movply.stream/hls/sony-six-hd.m3u8
+ "G": "https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
