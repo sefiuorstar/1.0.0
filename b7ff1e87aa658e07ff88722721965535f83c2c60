@@ -480,7 +480,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
- "G": "http://54k.top:8000/live/android/hytmmnb/51.m3u8
+ "G": "http://54k.top:8000/live/android/hytmmnb/44.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -526,7 +526,7 @@
 
 
 
- {"A":"14","B":"Bein 7 FHD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png", "G": "http://54k.top:8000/live/android/hytmmnb/49.m3u8
+ {"A":"14","B":"Bein 7 FHD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png", "G": "http://54k.top:8000/live/android/hytmmnb/42.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -539,7 +539,7 @@
 "P":0},
 
 
- {"A":"15","B":"Bein 8 FHD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png", "G": "http://54k.top:8000/live/android/hytmmnb/48.m3u8
+ {"A":"15","B":"Bein 8 FHD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png", "G": "http://54k.top:8000/live/android/hytmmnb/41.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -551,7 +551,7 @@
 "O":"",
 "P":0},
  
- {"A":"16","B":"Bein 9 FHD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png", "G": "http://54k.top:8000/live/android/hytmmnb/47.m3u8
+ {"A":"16","B":"Bein 9 FHD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png", "G": "http://54k.top:8000/live/android/hytmmnb/40.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -565,7 +565,7 @@
  
  
  
- {"A":"17","B":"Bein 10 FHD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be10.png", "G": "http://54k.top:8000/live/android/hytmmnb/53.m3u8
+ {"A":"17","B":"Bein 10 FHD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be10.png", "G": "http://54k.top:8000/live/android/hytmmnb/46.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
