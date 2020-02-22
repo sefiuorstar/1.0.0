@@ -1017,21 +1017,21 @@
 
  
  { "A": "8",
- "B": "Al Fajer 1",
+ "B": "Al Fajer Tv",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
- "F": "https://imgs1.e-droid.net/srv/imgs/seccs/4311455_ico.png?v=1", 
- "G": "http://64.52.23.77:25461/live/22/ALKING_PLUS_APP/60.m3u8  
+ "F": "https://alfajertv.com/style/atyaf/assets/images/logo.png", 
+ "G": "https://raw.githubusercontent.com/sefiuorstar/vlcplayer/master/fde342dsejg321hklidzaf4gT65fas54-de./Ezfddgfrdefsaqtgdza321hu50f4hd5dse.m3u  
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", 
  "R":"",
- "N": "king", "O": "",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
  "P": 0 },
  
  
@@ -1042,102 +1042,6 @@
 
 
 
-{ "A": "8",
- "B": "Al Fajer 2",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "https://imgs1.e-droid.net/srv/imgs/seccs/4311459_ico.png?v=1", 
- "G": "http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8  
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "Lva.vlc.player", "O": "",
- "P": 0 },
- 
- 
-
-
-
-
-
-
-
-{ "A": "8",
- "B": "Al Fajer 3",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047872_ico.png?v=1", 
- "G": "http://64.52.23.77:25461/live/22/ALKING_PLUS_APP/62.m3u8
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "king", "O": "",
- "P": 0 },
- 
- 
-
-
-
-
-
-
-
-{ "A": "8",
- "B": "Al Fajer 4",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047874_ico.png?v=1", 
- "G": "http://64.52.23.77:25461/live/22/ALKING_PLUS_APP/63.m3u8
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "king", "O": "",
- "P": 0 },
- 
- 
-
-
-
-
-
-
-
-{ "A": "8",
- "B": "Al Fajer 5",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047879_ico.png?v=1", 
- "G": "http://64.52.23.77:25461/live/22/ALKING_PLUS_APP/64.m3u8
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "king", "O": "",
- "P": 0 },
- 
  
 
 
