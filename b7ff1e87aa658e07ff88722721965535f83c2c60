@@ -995,13 +995,15 @@
 
  
 
+
+
 { "A": "8",
  "B": "(AR) Bein Sports HD 11",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be11.png", 
- "G": "http://51.15.8.16:8081/arbiarb/beinsports11/playlist.m3u8
+ "G": "http://dreamsat.iksa.cc:2086/rediptv0dreamsat/XP847wvHuv/2797
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -1009,7 +1011,7 @@
  "K": "", 
  "L": "",
  "M": "", "R":"",
-"N":"FalconIPTVPROPlayer",
+"N":"Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.117 Mobile Safari/537.36",
 "O":"",
 "P":0},
 
@@ -1023,7 +1025,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be12.png", 
- "G": "http://51.15.8.16:8081/arbiarb/beinsports12/playlist.m3u8
+ "G": "http://dreamsat.iksa.cc:2086/rediptv0dreamsat/XP847wvHuv/2798
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -1031,9 +1033,10 @@
  "K": "", 
  "L": "",
  "M": "", "R":"",
-"N":"FalconIPTVPROPlayer",
+"N":"Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.117 Mobile Safari/537.36",
 "O":"",
 "P":0},
+
 
 
 
