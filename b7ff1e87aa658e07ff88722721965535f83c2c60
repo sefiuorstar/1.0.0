@@ -1001,7 +1001,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be11.png", 
- "G": "http://163.172.36.147:8888/live/rediptv0dreamsat/XP847wvHuv/2797.m3u8?token=HRVRB0ZeEVhGCwAHBVMMAwMBA1EDUVQLB1FUAFAMBF1WBA1SBAcCWwUaGRcVEUpRVlpuWlZEWQpWDVEcR00WABRoUAIXDBFTRhQXQQ8IXRYNBx0RQg8HGlsWVAVQCVNHShVcHkFTQQwFVGpRAxNRV1IVC11HCg8UQ1sIbwFdCAQIUxtcFwYRTkZRRkVEX1ZBW1sdEVAPF0oAQAMSXxpXVVYHG0oXVVwXCkxHTERfGnByFR0RVx4XXQ9HD18LGl9HCwRMXhcaEQsXZ0dQFRFKUVZaVEEQXEEIQxhEXQRAOgYJWVcDVkJaDQpLFw9EVRoYFVpeXVsSDEo+RA9URwJHV1AGDlQXSw==
+ "G": "http://51.15.8.16:8081/arbiarb/beinsports11/playlist.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -1023,7 +1023,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be12.png", 
- "G": "http://falconiptv.com:80/live/56565656/56565656/30490.m3u8
+ "G": "http://51.15.8.16:8081/arbiarb/beinsports12/playlist.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
