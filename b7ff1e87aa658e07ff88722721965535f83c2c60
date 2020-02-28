@@ -2679,7 +2679,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a686.png", 
- "G": "http://89.163.251.146:25461/live/GTT/Group/433.m3u8
+ "G": "https://secured.albkanale.com/albkanaleofficial/sports/t1.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -2687,7 +2687,7 @@
  "K": "", 
  "L": "",
  "M": "", "R": "",
-"N":"shqiptvgt",
+"N":"tv.albkanale.al/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4",
 "O":"",
 "P":0},
 
@@ -2702,7 +2702,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a687.png", 
- "G": "http://89.163.251.146:25461/live/GTT/Group/434.m3u8
+ "G": "https://secured.albkanale.com/albkanaleofficial/sports/t2.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -2710,7 +2710,7 @@
  "K": "", 
  "L": "",
  "M": "", "R": "",
-"N":"shqiptvgt",
+"N":"tv.albkanale.al/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4",
 "O":"",
 "P":0},
 
