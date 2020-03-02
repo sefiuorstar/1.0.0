@@ -5673,19 +5673,17 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://origin1.referrari.com/live/60228_.m3u8?token=3761a94b938d4ba1847a4246bcb33662
+  "G": "http://www.247retro.com
 ",
- "H": "defaultplayer",
+  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
-
-
+ "M": "", "R": "{\"Referer\":\"http://www.247retro.com/\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
 
 
 { "A": "8212",
