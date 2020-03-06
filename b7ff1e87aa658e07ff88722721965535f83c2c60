@@ -1219,18 +1219,17 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1239.png", 
- "G": "http://www.barretos.eu/power/aovivo.php?canal=sportv
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"{\"Referer\":\"http://www.barretos.eu/power/aovivo.php?canal=sportv\"}",
- "N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
- "O":"",
- "P": 0 },
+ "G":"https://multicanais.com/player.php?canal=sportv ",
+"H":"webplayer",
+"I":"false",
+"J":"direct",
+"K":"",
+"L":"",
+"M":"",
+"R":"{\"Referer\":\"https://multicanais.com/player.php?canal=sportv\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23",
+"P":0}, 
+  
 
 
 
@@ -1241,18 +1240,17 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1240.png", 
- "G": "http://www.barretos.eu/power/aovivo.php?canal=sportv2
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"{\"Referer\":\"http://www.barretos.eu/power/aovivo.php?canal=sportv2\"}",
- "N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
- "O":"",
- "P": 0 },
+ "G":"https://multicanais.com/player.php?canal=sportv2 ",
+"H":"webplayer",
+"I":"false",
+"J":"direct",
+"K":"",
+"L":"",
+"M":"",
+"R":"{\"Referer\":\"https://multicanais.com/player.php?canal=sportv2\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23",
+"P":0}, 
+ 
 
 
 
@@ -1266,19 +1264,17 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1242.png", 
- "G": "http://www.barretos.eu/power/aovivo.php?canal=sportv3
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"{\"Referer\":\"http://www.barretos.eu/power/aovivo.php?canal=sportv3\"}",
- "N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
- "O":"",
- "P": 0 },
-
+ "G":"https://multicanais.com/player.php?canal=sportv3hd ",
+"H":"webplayer",
+"I":"false",
+"J":"direct",
+"K":"",
+"L":"",
+"M":"",
+"R":"{\"Referer\":\"https://multicanais.com/player.php?canal=sportv3hd\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23",
+"P":0}, 
+ 
 
 
 
