@@ -2,7 +2,7 @@
   "time": "2022-05-13 19:38:49",
   "plain": "20220513193849",
   "unix": "1652470729",
-   "Force": "http://46.105.112.116/common.php?watch=EX/bein1hd-ar&t=0&s=4&p=1&&r=1410&lb=1.m3u8&token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw==,7928642496."
-   "Act":"http://46.105.112.116/common.php?watch=VOD/redaction-fr&t=1&s=11&p=1&r=1394&lb=1.m3u8&token=RED_P7umhgar9IxyKVFSLsdqUA==,7928642496."
+   "Force": "http://46.105.112.116/common.php?watch=EX/bein1hd-ar&t=0&s=4&p=1&&r=1410&lb=1.m3u8&token=RED_z1Dab1-feaZas16ttaY6_Edv-a9a64ggAw==,7928642496."
+   "Act":"http://46.105.112.116/common.php?watch=VOD/redaction-fr&t=1&s=11&p=1&r=1394&lb=1.m3u8&token=RED_P7umh_ar9IFS_LsdqUA==,7928642496.&c=TR"
 
 }
