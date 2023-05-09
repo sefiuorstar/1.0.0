@@ -1,6 +1,40 @@
-{
-  "time": "2022-05-13 19:38:49",
-  "plain": "20220513193849",
-  "unix": "1652470729",
+
    
+{
+
+"ads_banner":"applovin",
+"ads_interstitial":"applovin",
+"ads_rewared":"applovin",
+"ads_openapp":"applovin",
+
+
+"max_BannerAd":"4b86ca44c63c8a57",
+"max_InterstitialAd":"09bc09709de0afce",
+"max_nativeAd":"3d929e9028392884",
+"max_reward":"41e0d030c793c20c",
+"max_openapp":"f65de0775ed1be6c",
+
+"Wortisekey":"",
+"wortise_banner":"test-banner",
+"wortise_interstitial":"test-interstitial",
+"wortise_rewarded":"test-rewarded",
+"wortise_openapp" :"test-app-open",
+
+
+"unity_unityGameID" :"4551797",
+"unity_banner": "Banner_Android",
+"unity_interstitial":"Interstitial_Android",
+"unity_reward":"Reward_android",
+
+"unity_testMode":true,
+
+
+"show_ads":true,
+
+
+"maxCounter":"90000"
+
+    
 }
+     
+
