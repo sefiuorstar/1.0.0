@@ -14,9 +14,9 @@
 "max_reward":"41e0d030c793c20c",
 "max_openapp":"f65de0775ed1be6c",
 
-"Wortisekey":"",
-"wortise_banner":"test-banner",
-"wortise_interstitial":"test-interstitial",
+"Wortisekey":"0fc4c1b7-9efe-410e-8b1f-527e6af97a50",
+"wortise_banner":"21419075-86fa-4f8d-85ce-9b242bf89c2e",
+"wortise_interstitial":"4381274b-080a-465e-82d3-b50fb17101c9",
 "wortise_rewarded":"test-rewarded",
 "wortise_openapp" :"test-app-open",
 
@@ -32,7 +32,7 @@
 "show_ads":true,
 
 
-"maxCounter":"90000"
+"maxCounter":"120000"
 
     
 }
