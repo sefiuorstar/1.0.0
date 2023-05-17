@@ -2,10 +2,10 @@
    
 {
 
-"ads_banner":"wortise",
-"ads_interstitial":"wortise",
-"ads_rewared":"applovin",
-"ads_openapp":"wortise",
+"ads_banner":"unity",
+"ads_interstitial":"unity",
+"ads_rewared":"unity",
+"ads_openapp":"unity",
 
 
 "max_BannerAd":"4b86ca44c63c8a57",
