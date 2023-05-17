@@ -2,9 +2,9 @@
    
 {
 
-"ads_banner":"applovin",
-"ads_interstitial":"applovin",
-"ads_rewared":"wortise",
+"ads_banner":"wortise",
+"ads_interstitial":"wortise",
+"ads_rewared":"applovin",
 "ads_openapp":"wortise",
 
 
@@ -32,7 +32,7 @@
 "show_ads":true,
 
 
-"maxCounter":"120000"
+"maxCounter":"90000"
 
     
 }
